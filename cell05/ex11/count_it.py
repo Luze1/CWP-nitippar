@@ -7,3 +7,4 @@ if len(word) >= 2:
         print(f"{i}: {len(i)}")
 else:
     print("none")
+    

@@ -14,3 +14,4 @@ if len(word) == 3:
     print(ans)
 else:
     print("none")
+    

@@ -1,4 +1,4 @@
-first_name = "Taratip"
-last_name = "Techatadadech"
+first_name = "Nijitpong"
+last_name = "Tipparak"
 
 print(first_name + " " + last_name)

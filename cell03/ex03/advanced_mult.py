@@ -3,3 +3,4 @@ for table in range(11):
     for i in range(11):
         print(f"{table * i}", end=" ")
     print()
+    

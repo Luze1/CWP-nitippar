@@ -7,3 +7,4 @@ if len(word) >= 2:
             print(w + "ism")
 else:
     print("none")
+    
